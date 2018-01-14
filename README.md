@@ -8,7 +8,7 @@
 
 ## Description
 
-A marginal plot visualization adds some extra data for each dimension of the dataset. On the graph below, more information can be be given on the distribution of each attribute.
+A marginal plot visualization adds some extra data for each dimension of the dataset. On the graph below, more information can be be given on the distribution of each attribute depending on Iris species. It allows to display useful data in addtion to a simple scatter plot, without overloading the visualization.
 
 <table border="0">
   <tr>
