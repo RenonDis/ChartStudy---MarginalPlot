@@ -40,9 +40,11 @@ A marginal plot visualization adds some extra data for each dimension of the dat
 
 ## Recent most famous ones
 
-There are as many variations as there are visualization for one dimension arrays. Those visualization are histograms, Box-and-Whisker-Plots, hash lines, and so forth. Here are a few examples.
+
 
 ## Comments: possible variations
+
+There are as many variations as there are visualization for one dimension arrays. Those visualization are histograms, Box-and-Whisker-Plots, hash lines, and so forth. Here are a few examples.
 
 ### Scatterplot with Marginal Histograms
 Most popular type of 1-D visualization, histograms allows a quick preview of discretized spectrum of data.
@@ -91,6 +93,18 @@ It can give an extra insight about data distribution, and can then be considered
     </td>
   </tr>
 </table>
+
+## Discussion
+
+### Pros
+* Extra data on same chart
+* Axis are already plotted
+* Very expressive
+
+### Cons
+* Can be confusing
+* Can overload the inner information
+* The axis of marginal 1D plots are often omitted
 
 ## Sources
 
