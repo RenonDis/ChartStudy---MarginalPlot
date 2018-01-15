@@ -55,7 +55,7 @@ Most popular type of 1-D visualization, histograms allows a quick preview of dis
   </tr>
   <tr>
     <td>
-      Visualisation des données Iris avec espèces par couleur, et effectif par taille
+      Scatterplot with Marginal Histograms [4]
     </td>
   </tr>
 </table>
@@ -71,7 +71,7 @@ This gives some statistics tools to work on each dimension. It can be a good way
   </tr>
   <tr>
     <td>
-      Visualisation des données Iris avec espèces par couleur, et effectif par taille
+      Scatterplot with Marginal Box-and-Whisker-Plots [4]
     </td>
   </tr>
 </table>
@@ -87,7 +87,7 @@ It can give an extra insight about data distribution, and can then be considered
   </tr>
   <tr>
     <td>
-      Visualisation des données Iris avec espèces par couleur, et effectif par taille
+      Scatterplot with Marginal Hash Lines [4]
     </td>
   </tr>
 </table>
