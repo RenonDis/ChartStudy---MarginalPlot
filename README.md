@@ -40,9 +40,57 @@ A marginal plot visualization adds some extra data for each dimension of the dat
 
 ## Recent most famous ones
 
+There are as many variations as there are visualization for one dimension arrays. Those visualization are histograms, Box-and-Whisker-Plots, hash lines, and so forth. Here are a few examples.
+
 ## Comments: possible variations
 
-### Scatterplot with marginal histograms
+### Scatterplot with Marginal Histograms
+Most popular type of 1-D visualization, histograms allows a quick preview of discretized spectrum of data.
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="img/irisViz.png" style="width: 100px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Visualisation des données Iris avec espèces par couleur, et effectif par taille
+    </td>
+  </tr>
+</table>
+
+### Scatterplot with Marginal Box-and-Whisker-Plots
+This gives some statistics tools to work on each dimension. It can be a good way to see if the current visualization is really covering a high percentage of the plotted data.
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="img/irisViz.png" style="width: 100px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Visualisation des données Iris avec espèces par couleur, et effectif par taille
+    </td>
+  </tr>
+</table>
+
+### Scatterplot with Marginal Hash Lines
+It can give an extra insight about data distribution, and can then be considered as an interesting complement to Box-and-Whisker-Plots.
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="img/irisViz.png" style="width: 100px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Visualisation des données Iris avec espèces par couleur, et effectif par taille
+    </td>
+  </tr>
+</table>
 
 ## Sources
 
