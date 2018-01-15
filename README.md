@@ -94,6 +94,22 @@ It can give an extra insight about data distribution, and can then be considered
   </tr>
 </table>
 
+### 3D Marginal Plot 
+This can be used to have some more acurate axis for the marginal plots, which are often lacking on other variations.
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="img/irisViz.png" style="width: 100px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      3D Marginal Plot [5]
+    </td>
+  </tr>
+</table>
+
 ## Discussion
 
 ### Pros
@@ -112,3 +128,4 @@ It can give an extra insight about data distribution, and can then be considered
 * [2] Marginal Model Plots : https://support.sas.com/rnd/app/stat/papers/marginal_model_plots.pdf
 * [3] Perfect Scatter Plots with Correlation and Marginal Histograms : http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/78-perfect-scatter-plots-with-correlation-and-marginal-histograms/
 * [4] Got a Scatter Plot? Learn How to Add Marginal Histograms : https://www.tableau.com/about/blog/2015/11/how-make-scatterplot-marginal-histograms-45811
+* [5] Visualization of Bivariate Distributions : https://mathematica.stackexchange.com/questions/27083/visualization-of-bivariate-distributions
