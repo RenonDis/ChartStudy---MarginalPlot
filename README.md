@@ -23,22 +23,7 @@ A marginal plot visualization adds some extra data for each dimension of the dat
   </tr>
 </table>
 
-## Historical Examples
-
-<table border="0">
-  <tr>
-    <td>
-      <img src="img/irisViz.png" style="width: 100px;">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Visualisation des données Iris avec espèces par couleur, et effectif par taille
-    </td>
-  </tr>
-</table>
-
-## Recent most famous ones
+## Historical/famous Examples
 
 Marginal Plots are quite a marginal way of plotting data.  I was not able to find particularly famous nor historically significant marginal plots.
 
@@ -52,7 +37,7 @@ Most popular type of 1-D visualization, histograms allows a quick preview of dis
 <table border="0">
   <tr>
     <td>
-      <img src="img/irisViz.png" style="width: 100px;">
+      <img src="img/ggplotHist.png" style="width: 100px;">
     </td>
   </tr>
   <tr>
@@ -68,7 +53,7 @@ This gives some statistics tools to work on each dimension. It can be a good way
 <table border="0">
   <tr>
     <td>
-      <img src="img/irisViz.png" style="width: 100px;">
+      <img src="img/ggplotMoust.png" style="width: 100px;">
     </td>
   </tr>
   <tr>
@@ -84,7 +69,7 @@ It can give an extra insight about data distribution, and can then be considered
 <table border="0">
   <tr>
     <td>
-      <img src="img/irisViz.png" style="width: 100px;">
+      <img src="img/hashL.png" style="width: 100px;">
     </td>
   </tr>
   <tr>
@@ -100,7 +85,7 @@ This can be used to have some more acurate axis for the marginal plots, which ar
 <table border="0">
   <tr>
     <td>
-      <img src="img/irisViz.png" style="width: 100px;">
+      <img src="img/3D.png" style="width: 100px;">
     </td>
   </tr>
   <tr>
