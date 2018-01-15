@@ -1,6 +1,6 @@
 # ChartStudy---MarginalPlot
 
-"the marginal plot actually utilizes the margins of a scatterplot to provide timely and important information about your data"
+Typically, a marginal plot actually utilizes the margins of a scatterplot to provide timely and important information about the initial data [1].
 
 ## Alternative names
 
@@ -42,8 +42,11 @@ A marginal plot visualization adds some extra data for each dimension of the dat
 
 ## Comments: possible variations
 
+### Scatterplot with marginal histograms
+
 ## Sources
 
 * [1] Using Marginal Plots, aka "Stuffed-Crust Charts" : http://blog.minitab.com/blog/data-analysis-and-quality-improvement-and-stuff/using-marginal-plots-aka-stuffed-crust-charts
 * [2] Marginal Model Plots : https://support.sas.com/rnd/app/stat/papers/marginal_model_plots.pdf
 * [3] Perfect Scatter Plots with Correlation and Marginal Histograms : http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/78-perfect-scatter-plots-with-correlation-and-marginal-histograms/
+* [4] Got a Scatter Plot? Learn How to Add Marginal Histograms : https://www.tableau.com/about/blog/2015/11/how-make-scatterplot-marginal-histograms-45811
