@@ -40,7 +40,7 @@ A marginal plot visualization adds some extra data for each dimension of the dat
 
 ## Recent most famous ones
 
-
+Marginal Plots are quite a marginal way of plotting data.  I was not able to find particularly famous nor historically significant marginal plots.
 
 ## Comments: possible variations
 
@@ -57,7 +57,7 @@ Most popular type of 1-D visualization, histograms allows a quick preview of dis
   </tr>
   <tr>
     <td>
-      Scatterplot with Marginal Histograms [4]
+      Scatterplot with Marginal Histograms [6]
     </td>
   </tr>
 </table>
@@ -73,7 +73,7 @@ This gives some statistics tools to work on each dimension. It can be a good way
   </tr>
   <tr>
     <td>
-      Scatterplot with Marginal Box-and-Whisker-Plots [4]
+      Scatterplot with Marginal Box-and-Whisker-Plots [6]
     </td>
   </tr>
 </table>
@@ -129,3 +129,4 @@ This can be used to have some more acurate axis for the marginal plots, which ar
 * [3] Perfect Scatter Plots with Correlation and Marginal Histograms : http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/78-perfect-scatter-plots-with-correlation-and-marginal-histograms/
 * [4] Got a Scatter Plot? Learn How to Add Marginal Histograms : https://www.tableau.com/about/blog/2015/11/how-make-scatterplot-marginal-histograms-45811
 * [5] Visualization of Bivariate Distributions : https://mathematica.stackexchange.com/questions/27083/visualization-of-bivariate-distributions
+* [6] Top 50 ggplot2 Visualizations - The Master List (With Full R Code) : http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html#Marginal%20Histogram%20/%20Boxplot
