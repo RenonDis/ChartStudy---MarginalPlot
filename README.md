@@ -79,6 +79,53 @@ It can give an extra insight about data distribution, and can then be considered
   </tr>
 </table>
 
+Marginal hash lines can also be categorized to display even more data, for instance to identify a few distinct classes :
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="img/dens.png" style="width: 100px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Hash lines with different types (colors) [6]
+    </td>
+  </tr>
+</table>
+
+### Combined Marginal Plot
+
+Histograms and curves can be combined in a marginal plot, as shown below.
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="img/combined.png" style="width: 100px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Combined histograms and curves marginal plot [8]
+    </td>
+  </tr>
+</table>
+
+This combination can be pushed to some extreme extent. Below is the combination of density, histogram and a set of box-and-whisker marginal plots.
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="img/fullcombined.jpeg" style="width: 100px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Density, histogram and box-and-whisker marginal plots [9]
+    </td>
+  </tr>
+</table>
+
 ### 3D Marginal Plot 
 This can be used to have some more acurate axis for the marginal plots, which are often lacking on other variations.
 
@@ -95,12 +142,42 @@ This can be used to have some more acurate axis for the marginal plots, which ar
   </tr>
 </table>
 
+### Marginal plot on density
+Marginal plots can also be used on all variants of scatter plots, such as density plots. On the chart below the 2D density is split between its two dimensions to have a separate view thanks to marginal plots.
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="img/3D.png" style="width: 100px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Marginal Plot on density scatter plot [10]
+    </td>
+  </tr>
+</table>
+
 ## Discussion
 
 ### Pros
 * Extra data on same chart
 * Axis are already plotted
 * Very expressive
+* Can clarify an overloaded graph :
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="img/density.png" style="width: 100px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Marginal plot clarifying core data [7]
+    </td>
+  </tr>
+</table>
 
 ### Cons
 * Can be confusing
