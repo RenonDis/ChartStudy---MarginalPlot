@@ -148,7 +148,7 @@ Marginal plots can also be used on all variants of scatter plots, such as densit
 <table border="0">
   <tr>
     <td>
-      <img src="img/3D.png" style="width: 100px;">
+      <img src="img/density.png" style="width: 100px;">
     </td>
   </tr>
   <tr>
@@ -169,7 +169,7 @@ Marginal plots can also be used on all variants of scatter plots, such as densit
 <table border="0">
   <tr>
     <td>
-      <img src="img/density.png" style="width: 100px;">
+      <img src="img/overload.png" style="width: 100px;">
     </td>
   </tr>
   <tr>
