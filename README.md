@@ -115,3 +115,4 @@ This can be used to have some more acurate axis for the marginal plots, which ar
 * [4] Got a Scatter Plot? Learn How to Add Marginal Histograms : https://www.tableau.com/about/blog/2015/11/how-make-scatterplot-marginal-histograms-45811
 * [5] Visualization of Bivariate Distributions : https://mathematica.stackexchange.com/questions/27083/visualization-of-bivariate-distributions
 * [6] Top 50 ggplot2 Visualizations - The Master List (With Full R Code) : http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html#Marginal%20Histogram%20/%20Boxplot
+* [7] scatterplot with alpha transparent histograms in R : https://stackoverflow.com/questions/17370460/scatterplot-with-alpha-transparent-histograms-in-r
