@@ -116,3 +116,6 @@ This can be used to have some more acurate axis for the marginal plots, which ar
 * [5] Visualization of Bivariate Distributions : https://mathematica.stackexchange.com/questions/27083/visualization-of-bivariate-distributions
 * [6] Top 50 ggplot2 Visualizations - The Master List (With Full R Code) : http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html#Marginal%20Histogram%20/%20Boxplot
 * [7] scatterplot with alpha transparent histograms in R : https://stackoverflow.com/questions/17370460/scatterplot-with-alpha-transparent-histograms-in-r
+* [8] Marginal Distribution Curve : https://www.originlab.com/doc/Tutorials/Marginal-Distribution-Curve
+* [9] adding marginal plots with cowplot : http://www.lreding.com/nonstandard\_deviations/2017/08/19/cowmarg/
+* [10] Reproducibility of registration-based measures of lung tissue expansion : https://www.researchgate.net/figure/221879157_fig1_Smoothed-color-density-scatter-plot-and-marginal-histograms-of-JAC-T-1-and
